@@ -4,4 +4,4 @@ The data collected only on 1 route but 20 different visits and each instance has
 * Latitude
 * Longitude
 * Timestamp
-* Normalized signal strengths of each wireless access points (if it's not seen on that visit, then the value is "-1"
+* Normalized signal strengths of each wireless access points (if it's not seen on that visit, then the value is "-1")
